@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín Núñez</h1>
 <h3 align="center">FullStack developer since 2020</h3>
+
+
 ## 💫 About Me:
 
 🔭 I’m currently working on Hotaka iKhodi<br>🌱 I’m currently learning React, GraphQl<br>💬 Ask me about Vue 2/3, Python, MongoDb<br>📫 How to reach me joaquin.software.e@gmail.com
