@@ -25,7 +25,7 @@
 | --- | --- | --- |
 | **[JNV UI Components](https://github.com/joaquinn6/components-vue-3)** · [demo](https://joaquinn6.github.io/components-vue-3/) | Themeable, accessible and typed Vue 3 component library with 30+ components and no hardcoded colors. My portfolio is built with it. | Vue 3, TypeScript, Vite, GitHub Actions |
 | **[Habits control](https://github.com/joaquinn6/habits-app)** · [demo](https://habits-three-iota.vercel.app/) · [API](https://github.com/joaquinn6/habits-api) | Mobile-first app to track habits, set goals and see progress stats. My jump from Vue to React. | React, Zustand, Ant Design, FastAPI, MongoDB |
-| **[Inventory system](https://github.com/joaquinn6/inventory-api)** · [demo](https://inventory-ni.netlify.app/) | Inventory, purchasing and sales system for a small tech store, still in production. PDF receipts, Excel reports and role-based access. | Vue 3, Element Plus, FastAPI, MongoDB, Docker |
+| **[Inventory system](https://github.com/joaquinn6/inventory-api)** · [demo](https://inventory-ni.netlify.app/) | Inventory, purchasing and sales system for a small tech store, still in production. PDF receipts, Excel reports and role-based access. | Vue 3, Element Plus, FastAPI, pandas, MongoDB, Docker |
 
 👉 More details on each project at **[joaquinn6.github.io](https://joaquinn6.github.io)**.
 
@@ -53,7 +53,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 **Tools**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 
 ## 📊 GitHub Stats
 
